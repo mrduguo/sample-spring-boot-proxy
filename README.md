@@ -1,4 +1,5 @@
-### Sample spring boot project
+### Sample spring boot proxy
+Based on [gs-spring-boot](https://github.com/spring-guides/gs-spring-boot/tree/master/complete)
 * spring boot
 * spring rest
 * spring cloud zuul
